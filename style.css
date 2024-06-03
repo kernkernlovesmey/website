@@ -1,7 +1,7 @@
 @font-face {
-    font-family: sopuol;
-    src: url(sopuolfont/sopuol-Regular.ttf);
+    font-family: myfont;
+    src: url(sopuolfont/myfont007-Regular.ttf);
 }
 h1.header-a{
-    font-family: sopuol;
+    font-family: myfont;
 }
